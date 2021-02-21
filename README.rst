@@ -1,7 +1,7 @@
 DB Clone
 ========
 
-Test project to create a local database like Notion
+Test project to create a database like Notion
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter
      :target: https://github.com/pydanny/cookiecutter-django/
